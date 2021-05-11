@@ -1,3 +1,3 @@
-# PCBS_stroop_effect
+# Simple reaction time as function of stimulus size
 
 This is a simple reaction task experiment, inspired by the paper of Berlucci et al. (1971). The task is simple: the participant must press a key as quickly as possible when a stimulus appears on the screen. In their experiment, Berlucci et al. varied the angle of a rectangle stimulus. By contrast, in the present experiment, I vary merely the size of a cross stimulus (holding constant for angle). Participants are, in random order, presented with either a small cross or a large cross appearing on the centre of the screen. The hypothesis for this experiment is that reaction time varies systematically with stimulus size, with the larger stimulus resulting in shorter reaction times. 

@@ -1,0 +1,48 @@
+#Expyriment 0.10.0 (Python 3.8.5), .xpe-file, coding: cp1252
+#date: Tue May 11 2021 22:40:36
+#sha1: c64c6d
+#modules: 
+#display: size=(1920, 1080), window_mode=False, open_gl=2
+#os: uname_result(system='Windows', node='DESKTOP-BVNMKJO', release='10', version='10.0.19041', machine='AMD64', processor='Intel64 Family 6 Model 61 Stepping 4, GenuineIntel')
+Time,Type,Event,Value,Detail,Detail2
+10725,design,log,
+#design: #exp: Visual Detection
+#design: #dvn: trial,wait,respkey,RT,target_type
+#design: block_cnt,block_id,trial_cnt,trial_id
+10726,design,logged,
+10726,Experiment,started
+10906,Stimulus,presented,3
+20009,Keyboard,received,32,wait
+20156,Stimulus,presented,2
+21705,Stimulus,presented,0
+21976,Keyboard,received,32,wait
+22055,Stimulus,presented,2
+23550,Stimulus,presented,1
+23789,Keyboard,received,32,wait
+23864,Stimulus,presented,2
+25097,Stimulus,presented,1
+25462,Keyboard,received,32,wait
+25569,Stimulus,presented,2
+26812,Stimulus,presented,1
+27059,Keyboard,received,32,wait
+27117,Stimulus,presented,2
+29114,Stimulus,presented,1
+29279,Keyboard,received,32,wait
+29379,Stimulus,presented,2
+30620,Stimulus,presented,1
+30917,Keyboard,received,32,wait
+31039,Stimulus,presented,2
+32276,Stimulus,presented,0
+32573,Keyboard,received,32,wait
+32649,Stimulus,presented,2
+34468,Stimulus,presented,1
+34688,Keyboard,received,32,wait
+34777,Stimulus,presented,2
+36527,Stimulus,presented,1
+36825,Keyboard,received,32,wait
+36931,Stimulus,presented,2
+38055,Stimulus,presented,1
+38354,Keyboard,received,32,wait
+38354,Experiment,ended
+38388,Data,saved
+38404,Stimulus,presented,6

@@ -1,0 +1,21 @@
+#Expyriment 0.10.0 (Python 3.8.5), .xpd-file, coding: cp1252
+#date: Tue May 11 2021 11:44:15
+#--EXPERIMENT INFO
+#e mainfile: my_simple-detection-visual-expyriment.py
+#e sha1: c64c6d
+#e modules: 
+#e Experiment: Visual Detection
+#e no between subject factors
+#--SUBJECT INFO
+#s id: 2
+subject_id,trial,wait,respkey,RT,target_type
+2,0,1081,32,265,target_large
+2,1,1740,32,56,target_small
+2,2,1306,32,257,target_large
+2,3,1830,32,276,target_large
+2,4,1604,32,308,target_small
+2,5,1768,32,246,target_large
+2,6,1911,32,323,target_small
+2,7,1127,32,341,target_large
+2,8,1649,32,167,target_small
+2,9,1851,32,200,target_large

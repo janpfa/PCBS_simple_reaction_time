@@ -1,9 +1,9 @@
-#! /usr/bin/env python
-# Time-stamp: <2021-03-23 19:13:19 christophe@pallier.org>
 """ This is a simple reaction-time experiment.
 
 At each trial, a cross is presented at the center of the screen and
-the participant must press a key as quickly as possible.
+the participant must press a key as quickly as possible. The cross is 
+either large or small. The goal is to see if there is a difference 
+in reaction time determined by stimulus size. 
 """
 
 import random
